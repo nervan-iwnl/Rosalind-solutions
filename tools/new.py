@@ -22,7 +22,7 @@ if __name__ == "__main__":
 def create_task(task_name: str) -> None:
     task_name = task_name.upper()
 
-    project_root = Path(__file__).resolve().parent
+    project_root = Path(__file__).resolve().parent.parent
     task_dir = project_root / "src" / task_name
 
     if task_dir.exists():
