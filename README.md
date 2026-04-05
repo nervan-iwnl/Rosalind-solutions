@@ -2,21 +2,21 @@
 
 > My Python solutions to Rosalind problems.
 
-![Solved](https://img.shields.io/badge/Solved-44-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-15.5%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
+![Solved](https://img.shields.io/badge/Solved-46-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-16.2%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
 
 ## Progress
 
-**44 / 284** solved
+**46 / 284** solved
 
-`███░░░░░░░░░░░░░░░░░` **15.5%**
+`███░░░░░░░░░░░░░░░░░` **16.2%**
 
 ## Latest Added
 
+- **EVAL** — Expected Number of Restriction Sites ([problem](https://rosalind.info/problems/eval/) · [code](src/EVAL/main.py))
+- **SPEC** — Inferring Protein from Spectrum ([problem](https://rosalind.info/problems/spec/) · [code](src/SPEC/main.py))
 - **ASPC** — Introduction to Alternative Splicing ([problem](https://rosalind.info/problems/aspc/) · [code](src/ASPC/main.py))
 - **CONS** — Consensus and Profile ([problem](https://rosalind.info/problems/cons/) · [code](src/CONS/main.py))
 - **DNA** — Counting DNA Nucleotides ([problem](https://rosalind.info/problems/dna/) · [code](src/DNA/main.py))
-- **FIB** — Rabbits and Recurrence Relations ([problem](https://rosalind.info/problems/fib/) · [code](src/FIB/main.py))
-- **FIBD** — Mortal Fibonacci Rabbits ([problem](https://rosalind.info/problems/fibd/) · [code](src/FIBD/main.py))
 
 ## Solved Problems
 
@@ -25,6 +25,7 @@
 | ASPC | Introduction to Alternative Splicing | [problem](https://rosalind.info/problems/aspc/) · [code](src/ASPC/main.py) |
 | CONS | Consensus and Profile | [problem](https://rosalind.info/problems/cons/) · [code](src/CONS/main.py) |
 | DNA | Counting DNA Nucleotides | [problem](https://rosalind.info/problems/dna/) · [code](src/DNA/main.py) |
+| EVAL | Expected Number of Restriction Sites | [problem](https://rosalind.info/problems/eval/) · [code](src/EVAL/main.py) |
 | FIB | Rabbits and Recurrence Relations | [problem](https://rosalind.info/problems/fib/) · [code](src/FIB/main.py) |
 | FIBD | Mortal Fibonacci Rabbits | [problem](https://rosalind.info/problems/fibd/) · [code](src/FIBD/main.py) |
 | GC | Computing GC Content | [problem](https://rosalind.info/problems/gc/) · [code](src/GC/main.py) |
@@ -59,6 +60,7 @@
 | RSTR | Matching Random Motifs | [problem](https://rosalind.info/problems/rstr/) · [code](src/RSTR/main.py) |
 | SETO | Introduction to Set Operations | [problem](https://rosalind.info/problems/seto/) · [code](src/SETO/main.py) |
 | SIGN | Enumerating Oriented Gene Orderings | [problem](https://rosalind.info/problems/sign/) · [code](src/SIGN/main.py) |
+| SPEC | Inferring Protein from Spectrum | [problem](https://rosalind.info/problems/spec/) · [code](src/SPEC/main.py) |
 | SPLC | RNA Splicing | [problem](https://rosalind.info/problems/splc/) · [code](src/SPLC/main.py) |
 | SSEQ | Finding a Spliced Motif | [problem](https://rosalind.info/problems/sseq/) · [code](src/SSEQ/main.py) |
 | SSET | Counting Subsets | [problem](https://rosalind.info/problems/sset/) · [code](src/SSET/main.py) |
@@ -70,7 +72,7 @@
 <details>
 <summary><b>Compact list</b></summary>
 
-[ASPC](src/ASPC/main.py), [CONS](src/CONS/main.py), [DNA](src/DNA/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LONG](src/LONG/main.py), [MMCH](src/MMCH/main.py), [MPRT](src/MPRT/main.py), [MRNA](src/MRNA/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RSTR](src/RSTR/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
+[ASPC](src/ASPC/main.py), [CONS](src/CONS/main.py), [DNA](src/DNA/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LONG](src/LONG/main.py), [MMCH](src/MMCH/main.py), [MPRT](src/MPRT/main.py), [MRNA](src/MRNA/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RSTR](src/RSTR/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
 
 </details>
 
