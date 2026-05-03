@@ -2,21 +2,21 @@
 
 > My Python solutions to Rosalind problems.
 
-![Solved](https://img.shields.io/badge/Solved-47-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-16.5%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
+![Solved](https://img.shields.io/badge/Solved-49-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-17.3%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
 
 ## Progress
 
-**47 / 284** solved
+**49 / 284** solved
 
-`███░░░░░░░░░░░░░░░░░` **16.5%**
+`███░░░░░░░░░░░░░░░░░` **17.3%**
 
 ## Latest Added
 
+- **LCSQ** — Finding a Shared Spliced Motif ([problem](https://rosalind.info/problems/lcsq/) · [code](src/LCSQ/main.py))
+- **SCSP** — Interleaving Two Motifs ([problem](https://rosalind.info/problems/scsp/) · [code](src/SCSP/main.py))
 - **KMER** — k-Mer Composition ([problem](https://rosalind.info/problems/kmer/) · [code](src/KMER/main.py))
 - **EVAL** — Expected Number of Restriction Sites ([problem](https://rosalind.info/problems/eval/) · [code](src/EVAL/main.py))
 - **SPEC** — Inferring Protein from Spectrum ([problem](https://rosalind.info/problems/spec/) · [code](src/SPEC/main.py))
-- **ASPC** — Introduction to Alternative Splicing ([problem](https://rosalind.info/problems/aspc/) · [code](src/ASPC/main.py))
-- **CONS** — Consensus and Profile ([problem](https://rosalind.info/problems/cons/) · [code](src/CONS/main.py))
 
 ## Solved Problems
 
@@ -37,6 +37,7 @@
 | KMER | k-Mer Composition | [problem](https://rosalind.info/problems/kmer/) · [code](src/KMER/main.py) |
 | KMP | Speeding Up Motif Finding | [problem](https://rosalind.info/problems/kmp/) · [code](src/KMP/main.py) |
 | LCSM | Finding a Shared Motif | [problem](https://rosalind.info/problems/lcsm/) · [code](src/LCSM/main.py) |
+| LCSQ | Finding a Shared Spliced Motif | [problem](https://rosalind.info/problems/lcsq/) · [code](src/LCSQ/main.py) |
 | LEXF | Enumerating k-mers Lexicographically | [problem](https://rosalind.info/problems/lexf/) · [code](src/LEXF/main.py) |
 | LEXV | Ordering Strings of Varying Length Lexicographically | [problem](https://rosalind.info/problems/lexv/) · [code](src/LEXV/main.py) |
 | LGIS | Longest Increasing Subsequence | [problem](https://rosalind.info/problems/lgis/) · [code](src/LGIS/main.py) |
@@ -59,6 +60,7 @@
 | REVP | Locating Restriction Sites | [problem](https://rosalind.info/problems/revp/) · [code](src/REVP/main.py) |
 | RNA | Transcribing DNA into RNA | [problem](https://rosalind.info/problems/rna/) · [code](src/RNA/main.py) |
 | RSTR | Matching Random Motifs | [problem](https://rosalind.info/problems/rstr/) · [code](src/RSTR/main.py) |
+| SCSP | Interleaving Two Motifs | [problem](https://rosalind.info/problems/scsp/) · [code](src/SCSP/main.py) |
 | SETO | Introduction to Set Operations | [problem](https://rosalind.info/problems/seto/) · [code](src/SETO/main.py) |
 | SIGN | Enumerating Oriented Gene Orderings | [problem](https://rosalind.info/problems/sign/) · [code](src/SIGN/main.py) |
 | SPEC | Inferring Protein from Spectrum | [problem](https://rosalind.info/problems/spec/) · [code](src/SPEC/main.py) |
@@ -73,7 +75,7 @@
 <details>
 <summary><b>Compact list</b></summary>
 
-[ASPC](src/ASPC/main.py), [CONS](src/CONS/main.py), [DNA](src/DNA/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [KMER](src/KMER/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LONG](src/LONG/main.py), [MMCH](src/MMCH/main.py), [MPRT](src/MPRT/main.py), [MRNA](src/MRNA/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RSTR](src/RSTR/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
+[ASPC](src/ASPC/main.py), [CONS](src/CONS/main.py), [DNA](src/DNA/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [KMER](src/KMER/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LCSQ](src/LCSQ/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LONG](src/LONG/main.py), [MMCH](src/MMCH/main.py), [MPRT](src/MPRT/main.py), [MRNA](src/MRNA/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RSTR](src/RSTR/main.py), [SCSP](src/SCSP/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
 
 </details>
 
