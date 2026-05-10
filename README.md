@@ -2,21 +2,21 @@
 
 > My Python solutions to Rosalind problems.
 
-![Solved](https://img.shields.io/badge/Solved-49-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-17.3%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
+![Solved](https://img.shields.io/badge/Solved-50-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-17.6%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
 
 ## Progress
 
-**49 / 284** solved
+**50 / 284** solved
 
-`███░░░░░░░░░░░░░░░░░` **17.3%**
+`████░░░░░░░░░░░░░░░░` **17.6%**
 
 ## Latest Added
 
+- **FULL** — Inferring Peptide from Full Spectrum ([problem](https://rosalind.info/problems/full/) · [code](src/FULL/main.py))
 - **LCSQ** — Finding a Shared Spliced Motif ([problem](https://rosalind.info/problems/lcsq/) · [code](src/LCSQ/main.py))
 - **SCSP** — Interleaving Two Motifs ([problem](https://rosalind.info/problems/scsp/) · [code](src/SCSP/main.py))
 - **KMER** — k-Mer Composition ([problem](https://rosalind.info/problems/kmer/) · [code](src/KMER/main.py))
 - **EVAL** — Expected Number of Restriction Sites ([problem](https://rosalind.info/problems/eval/) · [code](src/EVAL/main.py))
-- **SPEC** — Inferring Protein from Spectrum ([problem](https://rosalind.info/problems/spec/) · [code](src/SPEC/main.py))
 
 ## Solved Problems
 
@@ -28,6 +28,7 @@
 | EVAL | Expected Number of Restriction Sites | [problem](https://rosalind.info/problems/eval/) · [code](src/EVAL/main.py) |
 | FIB | Rabbits and Recurrence Relations | [problem](https://rosalind.info/problems/fib/) · [code](src/FIB/main.py) |
 | FIBD | Mortal Fibonacci Rabbits | [problem](https://rosalind.info/problems/fibd/) · [code](src/FIBD/main.py) |
+| FULL | Inferring Peptide from Full Spectrum | [problem](https://rosalind.info/problems/full/) · [code](src/FULL/main.py) |
 | GC | Computing GC Content | [problem](https://rosalind.info/problems/gc/) · [code](src/GC/main.py) |
 | GRPH | Overlap Graphs | [problem](https://rosalind.info/problems/grph/) · [code](src/GRPH/main.py) |
 | HAMM | Counting Point Mutations | [problem](https://rosalind.info/problems/hamm/) · [code](src/HAMM/main.py) |
@@ -75,7 +76,7 @@
 <details>
 <summary><b>Compact list</b></summary>
 
-[ASPC](src/ASPC/main.py), [CONS](src/CONS/main.py), [DNA](src/DNA/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [KMER](src/KMER/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LCSQ](src/LCSQ/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LONG](src/LONG/main.py), [MMCH](src/MMCH/main.py), [MPRT](src/MPRT/main.py), [MRNA](src/MRNA/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RSTR](src/RSTR/main.py), [SCSP](src/SCSP/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
+[ASPC](src/ASPC/main.py), [CONS](src/CONS/main.py), [DNA](src/DNA/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [FULL](src/FULL/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [KMER](src/KMER/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LCSQ](src/LCSQ/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LONG](src/LONG/main.py), [MMCH](src/MMCH/main.py), [MPRT](src/MPRT/main.py), [MRNA](src/MRNA/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RSTR](src/RSTR/main.py), [SCSP](src/SCSP/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
 
 </details>
 
