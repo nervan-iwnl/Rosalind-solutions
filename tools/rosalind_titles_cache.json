@@ -1,6 +1,8 @@
 {
   "ASPC": "Introduction to Alternative Splicing",
+  "CAT": "Catalan Numbers and RNA Secondary Structures",
   "CONS": "Consensus and Profile",
+  "CONV": "Comparing Spectra with the Spectral Convolution",
   "DNA": "Counting DNA Nucleotides",
   "EVAL": "Expected Number of Restriction Sites",
   "FIB": "Rabbits and Recurrence Relations",
