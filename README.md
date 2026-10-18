@@ -2,21 +2,21 @@
 
 > My Python solutions to Rosalind problems.
 
-![Solved](https://img.shields.io/badge/Solved-54-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-19.0%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
+![Solved](https://img.shields.io/badge/Solved-57-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-20.1%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
 
 ## Progress
 
-**54 / 284** solved
+**57 / 284** solved
 
-`████░░░░░░░░░░░░░░░░` **19.0%**
+`████░░░░░░░░░░░░░░░░` **20.1%**
 
 ## Latest Added
 
+- **MOTZ** — Motzkin Numbers and RNA Secondary Structures ([problem](https://rosalind.info/problems/motz/) · [code](src/MOTZ/main.py))
+- **NKEW** — Newick Format with Edge Weights ([problem](https://rosalind.info/problems/nkew/) · [code](src/NKEW/main.py))
+- **RNAS** — Wobble Bonding and RNA Secondary Structures ([problem](https://rosalind.info/problems/rnas/) · [code](src/RNAS/main.py))
 - **CORR** — Error Correction in Reads ([problem](https://rosalind.info/problems/corr/) · [code](src/CORR/main.py))
 - **DBRU** — Constructing a De Bruijn Graph ([problem](https://rosalind.info/problems/dbru/) · [code](src/DBRU/main.py))
-- **CAT** — Catalan Numbers and RNA Secondary Structures ([problem](https://rosalind.info/problems/cat/) · [code](src/CAT/main.py))
-- **CONV** — Comparing Spectra with the Spectral Convolution ([problem](https://rosalind.info/problems/conv/) · [code](src/CONV/main.py))
-- **FULL** — Inferring Peptide from Full Spectrum ([problem](https://rosalind.info/problems/full/) · [code](src/FULL/main.py))
 
 ## Solved Problems
 
@@ -49,8 +49,10 @@
 | LIA | Independent Alleles | [problem](https://rosalind.info/problems/lia/) · [code](src/LIA/main.py) |
 | LONG | Genome Assembly as Shortest Superstring | [problem](https://rosalind.info/problems/long/) · [code](src/LONG/main.py) |
 | MMCH | Maximum Matchings and RNA Secondary Structures | [problem](https://rosalind.info/problems/mmch/) · [code](src/MMCH/main.py) |
+| MOTZ | Motzkin Numbers and RNA Secondary Structures | [problem](https://rosalind.info/problems/motz/) · [code](src/MOTZ/main.py) |
 | MPRT | Finding a Protein Motif | [problem](https://rosalind.info/problems/mprt/) · [code](src/MPRT/main.py) |
 | MRNA | Inferring mRNA from Protein | [problem](https://rosalind.info/problems/mrna/) · [code](src/MRNA/main.py) |
+| NKEW | Newick Format with Edge Weights | [problem](https://rosalind.info/problems/nkew/) · [code](src/NKEW/main.py) |
 | NWCK | Distances in Trees | [problem](https://rosalind.info/problems/nwck/) · [code](src/NWCK/main.py) |
 | ORF | Open Reading Frames | [problem](https://rosalind.info/problems/orf/) · [code](src/ORF/main.py) |
 | PDST | Creating a Distance Matrix | [problem](https://rosalind.info/problems/pdst/) · [code](src/PDST/main.py) |
@@ -64,6 +66,7 @@
 | REVC | Complementing a Strand of DNA | [problem](https://rosalind.info/problems/revc/) · [code](src/REVC/main.py) |
 | REVP | Locating Restriction Sites | [problem](https://rosalind.info/problems/revp/) · [code](src/REVP/main.py) |
 | RNA | Transcribing DNA into RNA | [problem](https://rosalind.info/problems/rna/) · [code](src/RNA/main.py) |
+| RNAS | Wobble Bonding and RNA Secondary Structures | [problem](https://rosalind.info/problems/rnas/) · [code](src/RNAS/main.py) |
 | RSTR | Matching Random Motifs | [problem](https://rosalind.info/problems/rstr/) · [code](src/RSTR/main.py) |
 | SCSP | Interleaving Two Motifs | [problem](https://rosalind.info/problems/scsp/) · [code](src/SCSP/main.py) |
 | SETO | Introduction to Set Operations | [problem](https://rosalind.info/problems/seto/) · [code](src/SETO/main.py) |
@@ -80,7 +83,7 @@
 <details>
 <summary><b>Compact list</b></summary>
 
-[ASPC](src/ASPC/main.py), [CAT](src/CAT/main.py), [CONS](src/CONS/main.py), [CONV](src/CONV/main.py), [CORR](src/CORR/main.py), [DBRU](src/DBRU/main.py), [DNA](src/DNA/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [FULL](src/FULL/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [KMER](src/KMER/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LCSQ](src/LCSQ/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LONG](src/LONG/main.py), [MMCH](src/MMCH/main.py), [MPRT](src/MPRT/main.py), [MRNA](src/MRNA/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RSTR](src/RSTR/main.py), [SCSP](src/SCSP/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
+[ASPC](src/ASPC/main.py), [CAT](src/CAT/main.py), [CONS](src/CONS/main.py), [CONV](src/CONV/main.py), [CORR](src/CORR/main.py), [DBRU](src/DBRU/main.py), [DNA](src/DNA/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [FULL](src/FULL/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [KMER](src/KMER/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LCSQ](src/LCSQ/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LONG](src/LONG/main.py), [MMCH](src/MMCH/main.py), [MOTZ](src/MOTZ/main.py), [MPRT](src/MPRT/main.py), [MRNA](src/MRNA/main.py), [NKEW](src/NKEW/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RNAS](src/RNAS/main.py), [RSTR](src/RSTR/main.py), [SCSP](src/SCSP/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
 
 </details>
 
