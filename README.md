@@ -2,31 +2,33 @@
 
 > My Python solutions to Rosalind problems.
 
-![Solved](https://img.shields.io/badge/Solved-64-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-22.5%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
+![Solved](https://img.shields.io/badge/Solved-70-success) ![Total](https://img.shields.io/badge/Total-284-blue) ![Completion](https://img.shields.io/badge/Completion-24.6%25-orange) ![Language](https://img.shields.io/badge/Language-Python-3776AB)
 
 ## Progress
 
-**64 / 284** solved
+**70 / 284** solved
 
-`█████░░░░░░░░░░░░░░░` **22.5%**
+`█████░░░░░░░░░░░░░░░` **24.6%**
 
 ## Latest Added
 
-- **EDIT** — Edit Distance ([problem](https://rosalind.info/problems/edit/) · [code](src/EDIT/main.py))
-- **ITWV** — Finding Disjoint Motifs in a Gene ([problem](https://rosalind.info/problems/itwv/) · [code](src/ITWV/main.py))
-- **SORT** — Sorting by Reversals ([problem](https://rosalind.info/problems/sort/) · [code](src/SORT/main.py))
-- **LING** — Linguistic Complexity of a Genome ([problem](https://rosalind.info/problems/ling/) · [code](src/LING/main.py))
-- **LREP** — Finding the Longest Multiple Repeat ([problem](https://rosalind.info/problems/lrep/) · [code](src/LREP/main.py))
+- **AFRQ** — Counting Disease Carriers ([problem](https://rosalind.info/problems/afrq/) · [code](src/AFRQ/main.py))
+- **CTBL** — Creating a Character Table ([problem](https://rosalind.info/problems/ctbl/) · [code](src/CTBL/main.py))
+- **INDC** — Independent Segregation of Chromosomes ([problem](https://rosalind.info/problems/indc/) · [code](src/INDC/main.py))
+- **PRSM** — Matching a Spectrum to a Protein ([problem](https://rosalind.info/problems/prsm/) · [code](src/PRSM/main.py))
+- **SEXL** — Sex-Linked Inheritance ([problem](https://rosalind.info/problems/sexl/) · [code](src/SEXL/main.py))
 
 ## Solved Problems
 
 | ID | Title | Links |
 |---|---|---|
+| AFRQ | Counting Disease Carriers | [problem](https://rosalind.info/problems/afrq/) · [code](src/AFRQ/main.py) |
 | ASPC | Introduction to Alternative Splicing | [problem](https://rosalind.info/problems/aspc/) · [code](src/ASPC/main.py) |
 | CAT | Catalan Numbers and RNA Secondary Structures | [problem](https://rosalind.info/problems/cat/) · [code](src/CAT/main.py) |
 | CONS | Consensus and Profile | [problem](https://rosalind.info/problems/cons/) · [code](src/CONS/main.py) |
 | CONV | Comparing Spectra with the Spectral Convolution | [problem](https://rosalind.info/problems/conv/) · [code](src/CONV/main.py) |
 | CORR | Error Correction in Reads | [problem](https://rosalind.info/problems/corr/) · [code](src/CORR/main.py) |
+| CTBL | Creating a Character Table | [problem](https://rosalind.info/problems/ctbl/) · [code](src/CTBL/main.py) |
 | DBRU | Constructing a De Bruijn Graph | [problem](https://rosalind.info/problems/dbru/) · [code](src/DBRU/main.py) |
 | DNA | Counting DNA Nucleotides | [problem](https://rosalind.info/problems/dna/) · [code](src/DNA/main.py) |
 | EDIT | Edit Distance | [problem](https://rosalind.info/problems/edit/) · [code](src/EDIT/main.py) |
@@ -38,6 +40,7 @@
 | GRPH | Overlap Graphs | [problem](https://rosalind.info/problems/grph/) · [code](src/GRPH/main.py) |
 | HAMM | Counting Point Mutations | [problem](https://rosalind.info/problems/hamm/) · [code](src/HAMM/main.py) |
 | IEV | Calculating Expected Offspring | [problem](https://rosalind.info/problems/iev/) · [code](src/IEV/main.py) |
+| INDC | Independent Segregation of Chromosomes | [problem](https://rosalind.info/problems/indc/) · [code](src/INDC/main.py) |
 | INOD | Counting Phylogenetic Ancestors | [problem](https://rosalind.info/problems/inod/) · [code](src/INOD/main.py) |
 | IPRB | Mendel's First Law | [problem](https://rosalind.info/problems/iprb/) · [code](src/IPRB/main.py) |
 | ITWV | Finding Disjoint Motifs in a Gene | [problem](https://rosalind.info/problems/itwv/) · [code](src/ITWV/main.py) |
@@ -66,6 +69,7 @@
 | PPER | Partial Permutations | [problem](https://rosalind.info/problems/pper/) · [code](src/PPER/main.py) |
 | PROB | Introduction to Random Strings | [problem](https://rosalind.info/problems/prob/) · [code](src/PROB/main.py) |
 | PROT | Translating RNA into Protein | [problem](https://rosalind.info/problems/prot/) · [code](src/PROT/main.py) |
+| PRSM | Matching a Spectrum to a Protein | [problem](https://rosalind.info/problems/prsm/) · [code](src/PRSM/main.py) |
 | PRTM | Calculating Protein Mass | [problem](https://rosalind.info/problems/prtm/) · [code](src/PRTM/main.py) |
 | REAR | Reversal Distance | [problem](https://rosalind.info/problems/rear/) · [code](src/REAR/main.py) |
 | REVC | Complementing a Strand of DNA | [problem](https://rosalind.info/problems/revc/) · [code](src/REVC/main.py) |
@@ -75,6 +79,8 @@
 | RSTR | Matching Random Motifs | [problem](https://rosalind.info/problems/rstr/) · [code](src/RSTR/main.py) |
 | SCSP | Interleaving Two Motifs | [problem](https://rosalind.info/problems/scsp/) · [code](src/SCSP/main.py) |
 | SETO | Introduction to Set Operations | [problem](https://rosalind.info/problems/seto/) · [code](src/SETO/main.py) |
+| SEXL | Sex-Linked Inheritance | [problem](https://rosalind.info/problems/sexl/) · [code](src/SEXL/main.py) |
+| SGRA | Using the Spectrum Graph to Infer Peptides | [problem](https://rosalind.info/problems/sgra/) · [code](src/SGRA/main.py) |
 | SIGN | Enumerating Oriented Gene Orderings | [problem](https://rosalind.info/problems/sign/) · [code](src/SIGN/main.py) |
 | SORT | Sorting by Reversals | [problem](https://rosalind.info/problems/sort/) · [code](src/SORT/main.py) |
 | SPEC | Inferring Protein from Spectrum | [problem](https://rosalind.info/problems/spec/) · [code](src/SPEC/main.py) |
@@ -90,7 +96,7 @@
 <details>
 <summary><b>Compact list</b></summary>
 
-[ASPC](src/ASPC/main.py), [CAT](src/CAT/main.py), [CONS](src/CONS/main.py), [CONV](src/CONV/main.py), [CORR](src/CORR/main.py), [DBRU](src/DBRU/main.py), [DNA](src/DNA/main.py), [EDIT](src/EDIT/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [FULL](src/FULL/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [ITWV](src/ITWV/main.py), [KMER](src/KMER/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LCSQ](src/LCSQ/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LING](src/LING/main.py), [LONG](src/LONG/main.py), [LREP](src/LREP/main.py), [MMCH](src/MMCH/main.py), [MOTZ](src/MOTZ/main.py), [MPRT](src/MPRT/main.py), [MREP](src/MREP/main.py), [MRNA](src/MRNA/main.py), [NKEW](src/NKEW/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RNAS](src/RNAS/main.py), [RSTR](src/RSTR/main.py), [SCSP](src/SCSP/main.py), [SETO](src/SETO/main.py), [SIGN](src/SIGN/main.py), [SORT](src/SORT/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [SUFF](src/SUFF/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
+[AFRQ](src/AFRQ/main.py), [ASPC](src/ASPC/main.py), [CAT](src/CAT/main.py), [CONS](src/CONS/main.py), [CONV](src/CONV/main.py), [CORR](src/CORR/main.py), [CTBL](src/CTBL/main.py), [DBRU](src/DBRU/main.py), [DNA](src/DNA/main.py), [EDIT](src/EDIT/main.py), [EVAL](src/EVAL/main.py), [FIB](src/FIB/main.py), [FIBD](src/FIBD/main.py), [FULL](src/FULL/main.py), [GC](src/GC/main.py), [GRPH](src/GRPH/main.py), [HAMM](src/HAMM/main.py), [IEV](src/IEV/main.py), [INDC](src/INDC/main.py), [INOD](src/INOD/main.py), [IPRB](src/IPRB/main.py), [ITWV](src/ITWV/main.py), [KMER](src/KMER/main.py), [KMP](src/KMP/main.py), [LCSM](src/LCSM/main.py), [LCSQ](src/LCSQ/main.py), [LEXF](src/LEXF/main.py), [LEXV](src/LEXV/main.py), [LGIS](src/LGIS/main.py), [LIA](src/LIA/main.py), [LING](src/LING/main.py), [LONG](src/LONG/main.py), [LREP](src/LREP/main.py), [MMCH](src/MMCH/main.py), [MOTZ](src/MOTZ/main.py), [MPRT](src/MPRT/main.py), [MREP](src/MREP/main.py), [MRNA](src/MRNA/main.py), [NKEW](src/NKEW/main.py), [NWCK](src/NWCK/main.py), [ORF](src/ORF/main.py), [PDST](src/PDST/main.py), [PERM](src/PERM/main.py), [PMCH](src/PMCH/main.py), [PPER](src/PPER/main.py), [PROB](src/PROB/main.py), [PROT](src/PROT/main.py), [PRSM](src/PRSM/main.py), [PRTM](src/PRTM/main.py), [REAR](src/REAR/main.py), [REVC](src/REVC/main.py), [REVP](src/REVP/main.py), [RNA](src/RNA/main.py), [RNAS](src/RNAS/main.py), [RSTR](src/RSTR/main.py), [SCSP](src/SCSP/main.py), [SETO](src/SETO/main.py), [SEXL](src/SEXL/main.py), [SGRA](src/SGRA/main.py), [SIGN](src/SIGN/main.py), [SORT](src/SORT/main.py), [SPEC](src/SPEC/main.py), [SPLC](src/SPLC/main.py), [SSEQ](src/SSEQ/main.py), [SSET](src/SSET/main.py), [SUBS](src/SUBS/main.py), [SUFF](src/SUFF/main.py), [TRAN](src/TRAN/main.py), [TREE](src/TREE/main.py), [TRIE](src/TRIE/main.py)
 
 </details>
 
