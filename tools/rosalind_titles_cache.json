@@ -6,6 +6,7 @@
   "CONV": "Comparing Spectra with the Spectral Convolution",
   "CORR": "Error Correction in Reads",
   "CTBL": "Creating a Character Table",
+  "CUNR": "Counting Unrooted Binary Trees",
   "DBRU": "Constructing a De Bruijn Graph",
   "DNA": "Counting DNA Nucleotides",
   "EDIT": "Edit Distance",
@@ -32,6 +33,7 @@
   "LING": "Linguistic Complexity of a Genome",
   "LONG": "Genome Assembly as Shortest Superstring",
   "LREP": "Finding the Longest Multiple Repeat",
+  "MEND": "Inferring Genotype from a Pedigree",
   "MMCH": "Maximum Matchings and RNA Secondary Structures",
   "MOTZ": "Motzkin Numbers and RNA Secondary Structures",
   "MPRT": "Finding a Protein Motif",
@@ -68,5 +70,6 @@
   "SUFF": "Encoding Suffix Trees",
   "TRAN": "Transitions and Transversions",
   "TREE": "Completing a Tree",
-  "TRIE": "Introduction to Pattern Matching"
+  "TRIE": "Introduction to Pattern Matching",
+  "WFMD": "The Wright-Fisher Model of Genetic Drift"
 }
